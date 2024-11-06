@@ -8,3 +8,10 @@ file image size is very abnormal..so i put it to size 350..not coming(height was
 height anf my friend suggested 850..i dont know where she got it..but it worked 
 and bingo go the flag..
 ## aaSTEP 2
+![Screenshot 2024-11-07 015619](https://github.com/user-attachments/assets/bc1ae977-78b8-45b6-925d-cbd8f7ef9578)
+## what i learnt
+- i learnt u can used hxd normally to inspect a doc ..its a hexadecimal editor..
+- height >1000 makes text not to be seen
+
+## references
+my friend helpedd me a lot in this..
