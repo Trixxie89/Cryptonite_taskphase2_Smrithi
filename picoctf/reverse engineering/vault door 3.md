@@ -6,7 +6,7 @@ given in code(last)..it printed me access denied..so ehat i understto d was tthi
 im not well versed in java..so i found to print we use system.out.println(buffer);
 did that and got flag
 ## step 2:
-![Uploading Screenshot 2024-11-07 013621.png…]()
+![Screenshot 2024-11-07 013621](https://github.com/user-attachments/assets/ef16a9d0-6b06-4a93-a34b-ec743520c084)
 ## what i learnt:
 a new code to print a variable in java:
 ## other methods:
