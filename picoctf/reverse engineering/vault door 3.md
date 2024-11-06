@@ -6,3 +6,11 @@ given in code(last)..it printed me access denied..so ehat i understto d was tthi
 im not well versed in java..so i found to print we use system.out.println(buffer);
 did that and got flag
 ## step 2:
+![Uploading Screenshot 2024-11-07 013621.png…]()
+## what i learnt:
+a new code to print a variable in java:
+## other methods:
+while entering password i first typed just the string then icoctf for a lot of times
+and then realised it wss picoCTF..
+## references
+https://www.w3schools.com/java/java_variables_print.asp
