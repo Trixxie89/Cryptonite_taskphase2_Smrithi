@@ -82,3 +82,25 @@ wrote extracted data to "flag.txt".
 codebind@Smrithi:/mnt/c/amma$ cat flag.txt
 picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}
 codebind@Smrithi:/mnt/c/amma$ picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2024-12-17 023140](https://github.com/user-attachments/assets/4961ed63-ef3c-4606-a82b-32017822e1a1)
+
+
+
+
