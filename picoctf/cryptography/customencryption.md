@@ -137,7 +137,7 @@ def test(cipher_text, text_key):
     semi_cipher = decrypt(cipher_text, shared_key)
     plain = dynamic_xor_decrypt(semi_cipher, text_key)
     print(f'plain is: {plain[::-1]}')
-    ![Screenshot 2024-12-16 181958](https://github.com/user-attachments/assets/ccf3d35b-caa0-41b9-a2e6-f76e35c94543)
+  
     
 
 
@@ -145,3 +145,4 @@ if __name__ == "__main__":
     message =  [260307, 491691, 491691, 2487378, 2516301, 0, 1966764, 1879995, 1995687, 1214766, 0, 2400609, 607383, 144615, 1966764, 0, 636306, 2487378, 28923, 1793226, 694152, 780921, 173538, 173538, 491691, 173538, 751998, 1475073, 925536, 1417227, 751998, 202461, 347076, 491691]
     test(message, "trudeau")
 Trixxie_-picoctf@webshell:~$ 
+  ![Screenshot 2024-12-16 181958](https://github.com/user-attachments/assets/ccf3d35b-caa0-41b9-a2e6-f76e35c94543)
