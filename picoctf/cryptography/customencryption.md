@@ -146,3 +146,20 @@ if __name__ == "__main__":
     test(message, "trudeau")
 Trixxie_-picoctf@webshell:~$ 
   ![Screenshot 2024-12-16 181958](https://github.com/user-attachments/assets/ccf3d35b-caa0-41b9-a2e6-f76e35c94543)
+## step 2
+we have to dowmload both files given to us in the Q Now after downloading what we have to do is we the custom encryption dot PY we have to open it using vi that is vi custom encryption dot ty that helps us to enter into the text editor in that we can see that it is a python file and it is basically used to create the Cypher text whenever the plain text is given so we need to manipulate the code and I learnt how to manipulate the code using the video which basically deco....nto plain text and gives us the value
+ using the video which basically deconvers the cypher text into plain text and gives us the value(notes in nb)
+## what i llearnt
+how to manipulate python pgm
+## other methods
+none
+## references
+https://youtu.be/3cPnX_9bLPs?si=xIEd7aL3FL8SQgtU
+
+
+
+
+
+
+
+
