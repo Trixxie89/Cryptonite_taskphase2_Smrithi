@@ -3,6 +3,12 @@ password must be 32 characters long and each of them is xorred 0x55 and check si
 password[i]xor0x55=mybytes[i]
 so to find it we do mybyte[i]xor0x55
 acc to a xor b xor b =a
+
+
+
+
+
+## code
 hence i fould code from net that did this and got it''we can also do it with cyber chef
 passBytes = [None] * 32
 myBytes = [
