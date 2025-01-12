@@ -14,16 +14,16 @@ myBytes = [
             'f' , '8' , 'e' , '1' , 'e' , '0' , '4' , '7' ,
 	]
 
-# base10
+#base10
 for i in range(0,8):
 	passBytes[i] =  chr(myBytes[i])
 
-# base16
+#base16
 for i in range(8,16):
 	#passBytes[i] =  bytearray.fromhex(myBytes[i].replace('0x', '')).decode()
 	passBytes[i] =  chr(int(myBytes[i], 16))
 
-# base8
+#base8
 for i in range(16,24):
 	passBytes[i] =  chr(int(myBytes[i], 8))
 
