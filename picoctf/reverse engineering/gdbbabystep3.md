@@ -1,5 +1,5 @@
 # GDB BABY STEP3
-Launch GDB with the binary:
+
 
 gdb debugger0_c
 
@@ -59,8 +59,7 @@ While this shows a value, the challenge hints that it’s stored in memory in li
 Inspect the relevant memory location (e.g., RBP - 4):
 
 x/4xb $rbp-4
-
-Output:
+examine Four bytes of data as hexadecimal the officer address is subtracted by four bytes and RBP is the value of the base point
 
 0x7ffc1234:  0x6b  0xc9  0x62  0x22
 
